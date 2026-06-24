@@ -2,10 +2,6 @@
 
 ## Build a Virtual Private Cloud (VPC)
 
-![Image](http://nextwork.ai/charmed_brown_innocent_seal/uploads/aws-networks-vpc_2facf927)
-
----
-
 ## Introducing Today's Project!
 
 In this project, I will demonstrate... I'm doing this project to learn the fundementals of cloud networking, learn how subnet divides up network space and how an Internet Gateway opens up communication to the public web.
