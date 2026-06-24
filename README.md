@@ -14,7 +14,7 @@ In today's project, I used Amazon VPC to launch a virtual private netwrk on AWS 
 
 ### Personal reflection
 
-This project took me 20 minutes
+This part took me 20 minutes to complete.
 
 One thing I didn't expect in this project was that AWS proves a default VPC with subsets and internet gateway as pre-existing resources on AWS can not run without a default VPC connection.
 
@@ -89,7 +89,6 @@ Attaching an internet gateway to a VPC means resources in the VPC can now access
 
 ---
 
-## Introducing Today's Project!
 
 ### What is Amazon VPC?
 
@@ -99,13 +98,10 @@ Amazon Virtual Private Cloud (Amazon VPC) is a logically isolated section of the
 
 In today's project, I used Amazon VPC to create route tables, create network ACL to control traffic incoming and outging from my subnet and setup security groups to protect EC2 instance living inthe subnet.
 
-### One thing I didn't expect in this project was...
 
-One thing I didn't expect in this project was the minor difference between security groups and network ACLs, and how important it is to understand the levels that both tools operate at.
+### Duration to complete
 
-### This project took me...
-
-This project took me 30 minutes to complete.
+This part took me 30 minutes to complete.
 
 ---
 
