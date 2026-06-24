@@ -4,7 +4,7 @@
 
 ## Introducing Today's Project!
 
-In this project, I will demonstrate... I'm doing this project to learn the fundementals of cloud networking, learn how subnet divides up network space and how an Internet Gateway opens up communication to the public web.
+In this project, I will demonstrate building a basic VPC with subnets and internet gateway, as well as utilise VPC traffic Flow and security tools. I'm doing this project to learn the fundementals of cloud networking, learn how subnet divides up network space and how an Internet Gateway opens up communication to the public web.
 
 ### What is Amazon VPC?
 
