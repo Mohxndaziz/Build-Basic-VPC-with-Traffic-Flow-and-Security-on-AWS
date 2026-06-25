@@ -1,6 +1,6 @@
 # Build-Basic-VPC-with-Traffic-Flow-and-Security-on-AWS
 
-## Build a Virtual Private Cloud (VPC)
+![Image](http://nextwork.ai/charmed_brown_innocent_seal/uploads/aws-networks-security_92b0b0b4)
 
 ## Introducing Today's Project!
 
@@ -13,8 +13,6 @@ Amazon VPC is a logically isolated section of the AWS cloud where you can launch
 In today's project, I used Amazon VPC to launch a virtual private netwrk on AWS with public subnet and connected the VPC to an internet gateway.
 
 ### Personal reflection
-
-This part took me 20 minutes to complete.
 
 One thing I didn't expect in this project was that AWS proves a default VPC with subsets and internet gateway as pre-existing resources on AWS can not run without a default VPC connection.
 
@@ -84,10 +82,6 @@ Attaching an internet gateway to a VPC means resources in the VPC can now access
 ---
 
 ## VPC Traffic Flow and Security
-
-![Image](http://nextwork.ai/charmed_brown_innocent_seal/uploads/aws-networks-security_92b0b0b4)
-
----
 
 
 ### What is Amazon VPC?
