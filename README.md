@@ -1,6 +1,9 @@
 # Build-Basic-VPC-with-Traffic-Flow-and-Security-on-AWS
 
+
 ![Image](http://nextwork.ai/charmed_brown_innocent_seal/uploads/aws-networks-security_92b0b0b4)
+
+---
 
 ## Introducing Today's Project!
 
